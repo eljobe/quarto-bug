@@ -1,0 +1,9 @@
+---
+title: "Example quarto file"
+format: docx
+reference-doc: reference.docx
+---
+
+# Centipedes
+
+This file is part of a bug report.

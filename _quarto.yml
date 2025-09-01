@@ -1,0 +1,5 @@
+---
+project:
+ execute-dir: project
+ type: default
+ output-dir: output
