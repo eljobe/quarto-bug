@@ -1,7 +1,6 @@
 ---
 title: "Example quarto file"
-format: docx
-reference-doc: reference.docx
+format: pdf
 ---
 
 # Centipedes
